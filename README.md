@@ -1,6 +1,4 @@
-# Sorry-Game
-# Sorry game and Idoubt card game
-
+# Sorry-Game!
 
 >### Game Rules:
 - Each player has 4 pawns.
